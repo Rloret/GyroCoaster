@@ -14,3 +14,5 @@ En ese momento, se detendrá la continuación de la malla camino y el jugador ca
 No obstante, el jugador no puede abusar de este mecanismo, ya que está restringido cada cierto tiempo y,
 además, si se encuentra en la zona más baja de la pantalla tampoco se le permitirá hacerlo.
 Para mantenerle informado del momento en que no puede cortar la malla debido a la altura, el camino se tornará de un rojizo más intenso.
+
+[![Gyro VIDEO](http://i.imgur.com/ggpXw4J.jpg)](https://www.youtube.com/watch?v=-zuvd5XY1-o)
