@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatic Mesh generation.CSharp.Plugins", "Automatic Mesh generation.CSharp.Plugins.csproj", "{2003008F-A7A3-7055-3B86-18CF8E09E31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatic Mesh generation.CSharp", "Automatic Mesh generation.CSharp.csproj", "{5829D2ED-E034-7095-3973-60AFAAF6982F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatic Mesh generation.CSharp.Editor", "Automatic Mesh generation.CSharp.Editor.csproj", "{12762DD2-7A87-D4A5-8A39-0D3B582DA57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2003008F-A7A3-7055-3B86-18CF8E09E31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2003008F-A7A3-7055-3B86-18CF8E09E31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2003008F-A7A3-7055-3B86-18CF8E09E31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2003008F-A7A3-7055-3B86-18CF8E09E31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5829D2ED-E034-7095-3973-60AFAAF6982F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5829D2ED-E034-7095-3973-60AFAAF6982F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5829D2ED-E034-7095-3973-60AFAAF6982F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5829D2ED-E034-7095-3973-60AFAAF6982F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12762DD2-7A87-D4A5-8A39-0D3B582DA57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12762DD2-7A87-D4A5-8A39-0D3B582DA57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12762DD2-7A87-D4A5-8A39-0D3B582DA57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12762DD2-7A87-D4A5-8A39-0D3B582DA57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
